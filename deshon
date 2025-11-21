@@ -20,13 +20,13 @@
 
 <main>
     <h2>About Me</h2>
-    <p>Hello! My name is [Your Name], and this website is a small introduction to who I am. I enjoy learning new things, building creative projects, and finding ways to improve my skills. This site shares a little about what I can do, what I’ve worked on, and how to reach me.</p>
+    <p>Hello! My name is Deshon Shorter, and this website is a small introduction to who I am. I enjoy playing ball and eating good food
 
     <img src="your-photo.jpg" alt="A photo of me">
 </main>
 
 <footer>
-    <p>&copy; 2025 [Your Name]. All Rights Reserved.</p>
+    <p>&copy; 2025 [Deshon Shorter]. All Rights Reserved.</p>
 </footer>
 </body>
 </html>
